@@ -1,0 +1,4 @@
+Individual Espeletia plants are identified from aerial UAV drone images using 5 different deep learning network architectures. 
+
+
+Paramos.ipynb contains the code implemeting each of the 5 networks with kernel sizes of 3x3 and 5x5 in the convolution layers.
